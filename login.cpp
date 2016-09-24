@@ -7,8 +7,6 @@ int main(){
 	
 	string login;
 	int senha;
-	cout << "Painel Administrativo" << endl;
-	cout << "Digite o seu login: ";
 	cin >> login;
 	cout << "Digite a sua senha: ";
 	cin >> senha;
